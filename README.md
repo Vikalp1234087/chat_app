@@ -79,21 +79,9 @@ http://localhost:3333
 
 ## Output / Screenshots
 
-You can add screenshots in a folder like this:
-
-```text
-screenshots/
-  home-page.png
-  room-chat.png
-```
-
-Then reference them in the README like this:
-
-```md
 ![Home Page](screenshots/home-page.png)
 
 ![Chat Room](screenshots/room-chat.png)
-```
 
 ## Example screenshot workflow
 
